@@ -18,11 +18,11 @@ tensorboard
 Download images, annotations, oxts and calibration information from <a href="http://www.cvlibs.net/datasets/kitti/eval_tracking.php">KITTI Tracking website</a>
 
 Run kitti2coco.py in scripts to convert the annotation into COCO format.
-
-It will create tracking_subval_mini.json, tracking_subval.json, tracking_train.json, tracking_subtrain.json, tracking_test.json and similar files with prefix detection- under data/KITTI/anns.
 ```
 python scripts/kitti2coco.py
 ```
+It will create tracking_subval_mini.json, tracking_subval.json, tracking_train.json, tracking_subtrain.json, tracking_test.json and similar files with prefix detection- under data/KITTI/anns.
+
 
 ## Training
 ```
