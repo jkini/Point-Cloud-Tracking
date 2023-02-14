@@ -29,6 +29,6 @@ It will create tracking_subval_mini.json, tracking_subval.json, tracking_train.j
 ./scripts/train.sh
 ```
 
-## Evaluation
+## Testing
 ```
 ./scripts/test_eval_exp.sh kitti
