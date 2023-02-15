@@ -1,4 +1,4 @@
-Updates to the repository will be made soon.
+Updates to the repository will be made available soon.
 
 ## Installations
 ```
