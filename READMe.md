@@ -1,4 +1,4 @@
-Updates to the repository will be made available soon.
+Updates to the repository will be made available soon (pre-processed data, weights, visualizations).
 
 ## Installations
 ```
