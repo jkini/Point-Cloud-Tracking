@@ -24,7 +24,7 @@ Run kitti2coco.py in scripts to convert the annotation into COCO format.
 python scripts/kitti2coco.py
 ```
 It will create tracking_subval_mini.json, tracking_subval.json, tracking_train.json, tracking_subtrain.json, tracking_test.json and similar files with prefix detection- under data/KITTI/anns.
-
+-->
 
 ## Training
 ```
@@ -34,4 +34,4 @@ It will create tracking_subval_mini.json, tracking_subval.json, tracking_train.j
 ## Testing
 ```
 ./scripts/test_eval_exp.sh kitti
--->
+
