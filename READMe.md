@@ -15,7 +15,7 @@ compressai
 argparse
 tensorboard
 ```
-
+<!--
 ## Data Preparation
 Download images, annotations, oxts and calibration information from <a href="http://www.cvlibs.net/datasets/kitti/eval_tracking.php">KITTI Tracking website</a>
 
@@ -34,3 +34,4 @@ It will create tracking_subval_mini.json, tracking_subval.json, tracking_train.j
 ## Testing
 ```
 ./scripts/test_eval_exp.sh kitti
+-->
