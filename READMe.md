@@ -33,5 +33,5 @@ It will create tracking_subval_mini.json, tracking_subval.json, tracking_train.j
 
 ## Testing
 ```
-./scripts/test_eval_exp.sh kitti
+./scripts/test_eval_exp.sh
 
